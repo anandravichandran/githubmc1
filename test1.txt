@@ -1,1 +1,2 @@
 creates tests1.tx file
+i want creat the basic file in the git
